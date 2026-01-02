@@ -16,13 +16,11 @@ This site showcases a hero banner, services, travel destinations, blog cards, an
 # 🖼 Project Screenshot
 ![Screenshot 2026-01-02 174232](https://github.com/user-attachments/assets/c35328a2-c880-488a-ad06-2459dd5d128d)
 ![Screenshot 2026-01-02 174326](https://github.com/user-attachments/assets/1ba754a9-6257-46be-804b-0113856a6038)
-![Screenshot 2026-01-02 174348](https://github.com/user-attachments/assets/c6777735-39df-46d2-99c7-8b6ec06e1f55)
-![Screenshot 2026-01-02 174405](https://github.com/user-attachments/assets/ab4b1b58-281a-4fd0-a3cc-884572392e6b)
+![a](https://github.com/user-attachments/assets/9cef7fa7-7611-4e5c-bf89-e4c8920e8a97)
+![b](https://github.com/user-attachments/assets/93d2b4ce-cbc8-4001-b850-de0979f3f9a4)
+![c](https://github.com/user-attachments/assets/e8c8fa3c-9b44-47c6-83fa-642282c59e62)
 
-
-
-
-
+---
 ## ✨ Features
 
 ### 🎒 Hero Banner  
