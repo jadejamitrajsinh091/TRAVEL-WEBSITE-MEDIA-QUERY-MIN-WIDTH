@@ -9,7 +9,7 @@ This site showcases a hero banner, services, travel destinations, blog cards, an
 
 # 🔗 Live Demo (Verce')
 
-👉<a href="https://travel-website-media-query-min-widt.vercel.app/">LIVE DEMO</a>
+👉<a href="https://travel-website-media-query-min-widt.vercel.app/" target="_blank">LIVE DEMO</a>
 
 ---
 
